@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Eminem"},
+                  "SongTitle": {"S": "Superman"},
+                  "AlbumTitle": {"S": "The Eminem Show"},
+                  "SongYear": {"S": "2002"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Eminem"},
+                  "SongTitle": {"S": "Without Me"},
+                  "AlbumTitle": {"S": "The Eminem Show"},
+                  "SongYear": {"S": "2002"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Snoop Dog"},
+                  "SongTitle": {"S": "Beautiful"},
+                  "AlbumTitle": {"S": "Paid tha Cost to Be da Boss"},
+                  "SongYear": {"S": "2002"}
                 }
             }
         }
